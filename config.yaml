@@ -1,0 +1,6 @@
+path: "E:\\EstudosDS\\Yolov8\\data" #absolute path
+train: "images\\train" #relatie path
+val: "images\\train" #relative path
+
+names:
+  0: cat
